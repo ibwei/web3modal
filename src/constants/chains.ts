@@ -235,11 +235,17 @@ export const CHAIN_DATA_LIST: ChainDataList = {
     network: "hpb",
     networkId: 100
   },
-  338: {
-    chainId: 338,
-    chain: "CRO",
-    network: "cronos-testnet",
-    networkId: 338
+  321: {
+    chainId: 321,
+    chain: "KCC-Mainent",
+    network: "kcc-mainnet",
+    networkId: 321
+  },
+  322: {
+    chainId: 322,
+    chain: "KCC-Testnet",
+    network: "kcc-testnet",
+    networkId: 322
   },
   385: {
     chainId: 385,
